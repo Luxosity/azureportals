@@ -1,0 +1,23 @@
+{
+  "unversionedId": "portals/defender",
+  "id": "portals/defender",
+  "title": "Defender",
+  "description": "<CommandsTable",
+  "source": "@site/docs/portals/defender.md",
+  "sourceDirName": "portals",
+  "slug": "/portals/defender",
+  "permalink": "/portals/defender",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Defender",
+    "sidebar_class_name": "defender",
+    "hide_table_of_contents": true,
+    "custom_edit_url": null,
+    "pagination_next": null,
+    "pagination_prev": null
+  },
+  "sidebar": "docs"
+}

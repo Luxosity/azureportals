@@ -1,0 +1,23 @@
+{
+  "unversionedId": "portals/azure",
+  "id": "portals/azure",
+  "title": "Azure",
+  "description": "<CommandsTable",
+  "source": "@site/docs/portals/azure.md",
+  "sourceDirName": "portals",
+  "slug": "/portals/azure",
+  "permalink": "/portals/azure",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Azure",
+    "sidebar_class_name": "azure",
+    "hide_table_of_contents": true,
+    "custom_edit_url": null,
+    "pagination_next": null,
+    "pagination_prev": null
+  },
+  "sidebar": "docs"
+}

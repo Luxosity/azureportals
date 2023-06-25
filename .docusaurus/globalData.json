@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "docs/contributing",
+              "path": "/docs/contributing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "docs/related",
+              "path": "/docs/related",
+              "sidebar": "docs"
+            },
+            {
+              "id": "docs/tips",
+              "path": "/docs/tips",
+              "sidebar": "docs"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portals/azure",
+              "path": "/portals/azure",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portals/azuread",
+              "path": "/portals/azuread",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portals/defender",
+              "path": "/portals/defender",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portals/intune",
+              "path": "/portals/intune",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portals/m365",
+              "path": "/portals/m365",
+              "sidebar": "docs"
+            },
+            {
+              "id": "portals/mypages",
+              "path": "/portals/mypages",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

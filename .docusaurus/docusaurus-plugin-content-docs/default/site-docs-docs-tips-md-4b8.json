@@ -1,0 +1,30 @@
+{
+  "unversionedId": "docs/tips",
+  "id": "docs/tips",
+  "title": "🔥 Power User Tips",
+  "description": "🔥 Power User Tips",
+  "source": "@site/docs/docs/tips.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/tips",
+  "permalink": "/docs/tips",
+  "draft": false,
+  "editUrl": "https://github.com/merill/cmd/tree/main/website/docs/docs/tips.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🔥 Power User Tips",
+    "description": "🔥 Power User Tips",
+    "image": "/"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "My Pages",
+    "permalink": "/portals/mypages"
+  },
+  "next": {
+    "title": "✍️ Contributing",
+    "permalink": "/docs/contributing"
+  }
+}

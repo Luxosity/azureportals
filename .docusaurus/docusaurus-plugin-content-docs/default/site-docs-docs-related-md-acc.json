@@ -1,0 +1,24 @@
+{
+  "unversionedId": "docs/related",
+  "id": "docs/related",
+  "title": "👌 Related",
+  "description": "If you like [cmd.ms] make sure you check out these awesome resources that are related to [cmd.ms].",
+  "source": "@site/docs/docs/related.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/related",
+  "permalink": "/docs/related",
+  "draft": false,
+  "editUrl": "https://github.com/merill/cmd/tree/main/website/docs/docs/related.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "👌 Related"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "✍️ Contributing",
+    "permalink": "/docs/contributing"
+  }
+}

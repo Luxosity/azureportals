@@ -1,0 +1,25 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "🖥 Home",
+  "description": "Are you tired of clicking around in Microsoft portals to get to a blade?",
+  "source": "@site/docs/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🖥 Home",
+    "slug": "/",
+    "hide_table_of_contents": true,
+    "custom_edit_url": null,
+    "pagination_next": null,
+    "pagination_prev": null
+  },
+  "sidebar": "docs"
+}
